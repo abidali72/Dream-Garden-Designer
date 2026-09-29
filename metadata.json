@@ -1,0 +1,6 @@
+{
+  "name": "Verdant: Dream Garden Designer",
+  "description": "Design your dream garden with intelligent layout generation, interactive 2D garden planner, plant visual synthesis, and AI image creation & editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
